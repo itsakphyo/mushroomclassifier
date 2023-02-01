@@ -13,3 +13,4 @@ Accurecy - 1.0000
 
 
 ## web app usage
+$ streamlit run main.py
