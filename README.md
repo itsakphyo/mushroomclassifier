@@ -6,5 +6,10 @@ This dataset includes descriptions of hypothetical samples corresponding to 23 s
 
 Time period: Donated to UCI ML 27 April 1987
 ## About calssifier model
-## Accurecy
+
+Model - Decision Tree
+
+Accurecy - 1.0000
+
+
 ## web app usage
